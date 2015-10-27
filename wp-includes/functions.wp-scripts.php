@@ -9,7 +9,6 @@
  */
 
 /**
- *
  * Initialize $wp_scripts if it has not been set.
  *
  * @global WP_Scripts $wp_scripts
